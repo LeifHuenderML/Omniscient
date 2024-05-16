@@ -1,5 +1,5 @@
 # Omniscient
-<img src="docs/imgs/omnisient_logo.webp" alt="Omniscient logo" width="200">
+<img src="docs/imgs/omnisient_logo.webp" alt="Omniscient logo" width="300">
 
 Omniscient is an AI tool designed to enhance daily cognition through speech pattern analysis, providing insights into an individual's cognitive state.
 
